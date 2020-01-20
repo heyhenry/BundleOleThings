@@ -68,3 +68,19 @@ li a {
     border: solid white;
     cursor: pointer;
 }
+
+/* Games Page */
+
+#games-logo {
+    width: 500px;
+    height: 500px;
+    transform: translate(140%, -25%);
+}
+
+#numbers-guessing-game-img {
+    width: 300px;
+    height: 200px;
+    transform: translate(75%, -120%);
+}
+
+/* BubblesOleLinks Page */
