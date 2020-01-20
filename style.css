@@ -97,11 +97,26 @@ li a {
 }
 
 #instagram-icon {
-    height: 100px;
-    width: 100px;
+    height: 110px;
+    width: 145px;
 }
 
 #facebook-icon {
+    height: 140px;
+    width: 135px;
+} 
+
+#googleplus-icon {
     height: 100px;
     width: 100px;
+} 
+
+#twitter-icon {
+    height: 115px;
+    width: 110px;
+} 
+
+#linkedin-icon {
+    height: 110px;
+    width: 110px;
 } 
