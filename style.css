@@ -84,3 +84,24 @@ li a {
 }
 
 /* BubblesOleLinks Page */
+
+#bubbles-logo {
+    width: 500px;
+    height: 500px;
+    transform: translate(140%, -25%);
+}
+
+#youtube-icon {
+    height: 100px;
+    width: 100px;
+}
+
+#instagram-icon {
+    height: 100px;
+    width: 100px;
+}
+
+#facebook-icon {
+    height: 100px;
+    width: 100px;
+} 
