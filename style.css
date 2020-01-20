@@ -31,7 +31,7 @@ li a {
     text-align: center;
     padding: 14px 16px; 
     text-decoration: none;
-    border: green solid 1px;
+    /* border: green solid 1px; */
 }
 
 .navbar-right {
@@ -55,7 +55,7 @@ li a {
 }
 
 #search-icon {
-    transform: translate(15%, 20%);
+    transform: translate(20%, 20%);
 }
 
 #search-wrapper {
@@ -64,5 +64,7 @@ li a {
     background-color: #ECF565;
     width: 410px;
     height: 35px;
-    transform: translate(182%, -250%);
+    transform: translate(179%, -230%);
+    border: solid white;
+    cursor: pointer;
 }
