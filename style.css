@@ -1,17 +1,18 @@
 html {
-    background: url(img/anime-boattown-bg.png) no-repeat center center fixed;
+    background: url(img/purple-gradient-bg.jpg) no-repeat center center fixed;
     background-size: cover;
     overflow: hidden;
 }
 
 body {
-    font-family: Garamond, Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
 }
 
 #site-logo {
-    width: 25px;
-    height: 25px;
+    width: 35px;
+    height: 35px;
 }
 
 #navbar-ul {
@@ -30,10 +31,32 @@ li a {
     text-align: center;
     padding: 14px 16px; 
     text-decoration: none;
-    /* border: green solid 1px; */
+    border: green solid 1px;
 }
 
 .navbar-right {
     float: right;
 }
 
+#search-title {
+    transform: translate( 140%, 20%);
+    height: 500px;
+    width: 500px;
+}
+
+#searchbar {
+    transform: translate(-20%, -50%);
+}
+
+#search-icon {
+    transform: translate(-50%, 20%);
+}
+
+#search-wrapper {
+    border: 5px solid red; 
+    background-color: lightskyblue;
+    width: 400px;
+    height: 35px;
+    transform: translate(182%, -50%);
+
+}
