@@ -4,9 +4,14 @@ html {
     overflow: hidden;
 }
 
+body {
+    font-family: Garamond, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
 #site-logo {
-    width: 3%;
-    height: 3%;
+    width: 25px;
+    height: 25px;
 }
 
 #navbar-ul {
@@ -16,7 +21,7 @@ html {
     overflow: hidden;
 }
 
-li { 
+.navbar-left { 
     float: left;
 }
 
@@ -25,5 +30,10 @@ li a {
     text-align: center;
     padding: 14px 16px; 
     text-decoration: none;
-    border: green solid 1px;
+    /* border: green solid 1px; */
 }
+
+.navbar-right {
+    float: right;
+}
+
